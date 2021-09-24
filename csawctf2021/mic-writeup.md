@@ -21,7 +21,7 @@ scan.pdf: PDF document, version 1.3
 [read_it](https://en.wikipedia.org/wiki/Machine_Identification_Code)
 
 ----
-MIC AND CHALLENGE NAME ARE SAME 
+ 
 
 ![image](https://user-images.githubusercontent.com/72292872/134705421-8c2bc6b1-e99c-47b4-8796-e44777044eb8.png)
 
@@ -79,9 +79,9 @@ Installation
     
 ```
 
-- Extract Yellow Dots From Printed Pages
+- 2.Extract Yellow Dots From Printed Pages
 
-> 1. Reading tracking data
+>  Reading tracking data
 
 Tracking data can be read and sometimes be decoded from a scanned image. For good results the input shall use a lossless compression (e.g. png) and 300 dpi. Make sure to set a neutral contrast $ deda_parse_print INPUTFILE
 
@@ -132,7 +132,7 @@ Decoded:
         unknown5: 00
         printer: 00000102
 ```
-**Here you can notice the serial number which is end with 102 : chr(102)= f**
+**3.Here you can notice the serial number which is end with 102 : chr(102)= f**
 so the flag formate is flag{}
 **now you can get idea**
 **lets do it for all png's**
