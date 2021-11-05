@@ -45,7 +45,7 @@ You can contact me at s@lid3r@tuta.io and i can decrypt upto 3 files for FREE.
  
  Desc : **where the payment was made**
  
- **From desc they said oct 31 , So the flag is second address! **
+ **From desc they said oct 31 , So the flag is second address!**
  
  ----
  
