@@ -2,7 +2,8 @@
 # CTF name : Metared
 ### Link : [click](https://ctf.csirt.cedia.org.ec/)
 ### Flag : FLAG{P1X3l_Valu3_d1ffERienc1nG.png}
-# points : 100
+#![image](https://user-images.githubusercontent.com/72292872/140550565-59424c58-1159-455a-b1c6-9c8e6cfcb3e5.png)
+
 
 ----
   
