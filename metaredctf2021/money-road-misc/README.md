@@ -33,20 +33,21 @@ You can contact me at s@lid3r@tuta.io and i can decrypt upto 3 files for FREE.
  
  **From description they mentioned ropsten**
  ----
- #![image](ropsten.png)
+ ![image](ropsten.png)
  
  Search ropsten 
  
  1.copy the eth address 
  
  2.paste and search 
+
  3.check the traffic
  
  **From desc they said oct 31 So the flag is second address!**
  
  ----
  
- #![image](ropsten1.png)
+ ![image](ropsten1.png)
  ---
  
  
